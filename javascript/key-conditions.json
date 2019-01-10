@@ -1,0 +1,18 @@
+{
+    "year": {
+        "AttributeValueList": [
+            {
+                "N": "2015"
+            }
+        ],
+        "ComparisonOperator": "EQ"
+    },
+    "title": {
+        "AttributeValueList":[
+            {
+                "S": "The Big New Movie"
+            }
+        ],
+        "ComparisonOperator":"EQ"
+    }
+}

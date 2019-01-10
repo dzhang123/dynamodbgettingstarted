@@ -1,0 +1,11 @@
+package com.amazonaws.codesamples.gsg;
+
+public class MoviesItemOps01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		AmazonDynamoDB client = AmazonDynamoDBClientBuilder.standard()
+				.withEndpointConfiguration(new AwsClientBuilder.EndpointConfiguration("http://localhost:3306", "us-east-1"));
+	}
+
+}

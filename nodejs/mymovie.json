@@ -1,0 +1,25 @@
+
+    {
+        "year": {"N": "2013"},
+        "title": {"S": "Little Black Book-MyMovie"},
+        "info": { "M": {
+            "directors": {"L": [{"S": "Nick Hurran"}]},
+            "release_date": {"S": "2004-08-06T00:00:00Z"},
+            "rating": {"N": "5.1"},
+            "genres": {"L":[
+                {"S": "Comedy"},
+                {"S": "Romance"},
+                {"S": "Drama"}
+            ]},
+            "image_url": {"S": "http://ia.media-imdb.com/images/M/MV5BMTY0ODczNzM4OV5BMl5BanBnXkFtZTcwNzcyMDUzMw@@._V1_SX400_.jpg"},
+            "plot": {"S": "A woman snoops through her boyfriend's palm pilot and reveals his former girlfriends, which causes her to question why they're still listed in his little black book."},
+            "rank": {"N":"5000"},
+            "running_time_secs": {"S": "6660"},
+            "actors": {"L": [
+                {"S": "Brittany Murphy"},
+                {"S": "Ron Livingston"},
+                {"S": "Holly Hunter"}
+            ]}
+        }
+        }
+    }

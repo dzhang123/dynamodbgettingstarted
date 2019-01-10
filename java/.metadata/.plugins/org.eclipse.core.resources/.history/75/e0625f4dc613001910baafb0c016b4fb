@@ -1,0 +1,11 @@
+package com.amazonaws.codesamples.gsg;
+
+public class MoviesCreateTable {
+
+	public static void main(String[] args) throws Exception {
+		// TODO Auto-generated method stub
+		AmazonDynamoDB client;
+
+	}
+
+}

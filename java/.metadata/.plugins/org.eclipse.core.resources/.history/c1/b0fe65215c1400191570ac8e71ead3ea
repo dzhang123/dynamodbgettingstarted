@@ -1,0 +1,21 @@
+package com.amazonaws.codesamples.gsg;
+
+import com.amazonaws.client.builder.AwsClientBuilder;
+import com.amazonaws.services.dynamodbv2.AmazonDynamoDB;
+import com.amazonaws.services.dynamodbv2.AmazonDynamoDBClientBuilder;
+import com.amazonaws.services.dynamodbv2.document.DynamoDB;
+
+public class MoviesItemOps01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		AmazonDynamoDB client = AmazonDynamoDBClientBuilder.standard()
+				.withEndpointConfiguration(new AwsClientBuilder.EndpointConfiguration("http://localhost:3306", "us-east-1"))
+				.build();
+		
+		DynamoDB dynamoDB = new DynamoDB(client);
+		
+		Table table = dynamoDB.getTable("Movies");
+	}
+
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://sdk.amazonaws.com/js/aws-sdk-2.7.16.min.js"></script>
+
+        <script>
+            AWS.config.update( {
+                region: "us-east-1",
+                endpoint: 'http://localhost:8000',
+                accessKeyId: "fakeMyKeyId",
+                secretAccessKey: "fakeSecretAccessKey"
+            });
+
+            var docClient = new AWS.DynamoDB.DocumentClient();
+            
+            function createItem () {
+                var params = {
+                    TableName: "Movies",
+                    Item: {
+                        "year": 2016,
+                        "title": "The Big New Movie2",
+                        "info": {
+                            "plot": "Nothing happends at all.",
+                            "rating": 0
+                        }
+                    }
+                };
+                docClient.put(params, (err, data) => {
+                    if (err) {
+                        document.getElementById('textarea').innerHTML = `Unable to add item: \n${JSON.stringify(err, undefined, 2)}`;
+                    } else {
+                        document.getElementById('textarea').innerHTML = "PutItem succeeded: " + JSON.stringify(data, undefined, 2);
+                    }
+                });
+            }
+        </script>
+    </head>
+
+    <body>
+        <input id="createItem" type="button" value="Create Item" onclick="createItem();"/>
+        <br><br>
+        <textarea readonly id="textarea" style="width:400px;height:800px"></textarea>
+    </body>
+</html>
