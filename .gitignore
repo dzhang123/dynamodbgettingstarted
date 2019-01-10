@@ -64,8 +64,8 @@ typings/
 .DS_Store
 
 # node modules
-*/node_modules/
+**/node_modules/**/*
 
 # java .metadata folder
-
+**/.metadata/**/*
 *.class
