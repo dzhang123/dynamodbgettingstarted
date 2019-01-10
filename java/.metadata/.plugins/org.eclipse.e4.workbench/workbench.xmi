@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_Y9Z-cRPEEem0-qd5Tf1Wvw" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_Y9Z-chPEEem0-qd5Tf1Wvw" bindingContexts="_Y9Z-dBPEEem0-qd5Tf1Wvw">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesItemOps01.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps01.java&quot;>&#xA;&lt;persistable path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps01.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.wst.json.ui.JSONEditor&quot; name=&quot;moviedata.json&quot; tooltip=&quot;/Users/dzhang/Projects/dynamodb/Movies/java/Movies/moviedata.json&quot;>&#xA;&lt;persistable uri=&quot;file:/Users/dzhang/Projects/dynamodb/Movies/java/Movies/moviedata.json&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesLoadData.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesLoadData.java&quot;>&#xA;&lt;persistable path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesLoadData.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesCreateTable.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesCreateTable.java&quot;>&#xA;&lt;persistable path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesCreateTable.java&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesDeleteTable.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesDeleteTable.java&quot;>&#xA;&lt;persistable path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesDeleteTable.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesScan.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesScan.java&quot;>&#xA;&lt;persistable path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesScan.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesQuery.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesQuery.java&quot;>&#xA;&lt;persistable path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesQuery.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesItemOps06.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps06.java&quot;>&#xA;&lt;persistable path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps06.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesItemOps05.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps05.java&quot;>&#xA;&lt;persistable path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps05.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesItemOps04.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps04.java&quot;>&#xA;&lt;persistable path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps04.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesItemOps03.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps03.java&quot;>&#xA;&lt;persistable path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps03.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesItemOps02.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps02.java&quot;>&#xA;&lt;persistable path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps02.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesItemOps01.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps01.java&quot;>&#xA;&lt;persistable path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps01.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.wst.json.ui.JSONEditor&quot; name=&quot;moviedata.json&quot; tooltip=&quot;/Users/dzhang/Projects/dynamodb/Movies/java/Movies/moviedata.json&quot;>&#xA;&lt;persistable uri=&quot;file:/Users/dzhang/Projects/dynamodb/Movies/java/Movies/moviedata.json&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesLoadData.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesLoadData.java&quot;>&#xA;&lt;persistable path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesLoadData.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesCreateTable.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesCreateTable.java&quot;>&#xA;&lt;persistable path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesCreateTable.java&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_Y9Z-chPEEem0-qd5Tf1Wvw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_ZMhYghPEEem0-qd5Tf1Wvw" label="%trimmedwindow.label.eclipseSDK" x="0" y="-7" width="1920" height="996">
@@ -11,6 +11,7 @@
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1547006987804"/>
     <tags>topLevel</tags>
+    <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_ZMhYghPEEem0-qd5Tf1Wvw" selectedElement="_ZMhYgxPEEem0-qd5Tf1Wvw" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_ZMhYgxPEEem0-qd5Tf1Wvw" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_ZbJDUBPEEem0-qd5Tf1Wvw">
         <children xsi:type="advanced:Perspective" xmi:id="_ZbJDUBPEEem0-qd5Tf1Wvw" elementId="org.eclipse.jst.j2ee.J2EEPerspective" selectedElement="_ZbJDURPEEem0-qd5Tf1Wvw" label="Java EE" iconURI="platform:/plugin/org.eclipse.jst.j2ee.ui/icons/full/cview16/j2ee_perspective.gif">
@@ -100,8 +101,8 @@
             </children>
             <children xsi:type="basic:PartSashContainer" xmi:id="_ZbJDWBPEEem0-qd5Tf1Wvw" containerData="8274" selectedElement="_GF_LEBRJEemO84BhKQ1x7A" horizontal="true">
               <children xsi:type="basic:PartSashContainer" xmi:id="_GF_LEBRJEemO84BhKQ1x7A" containerData="5000" selectedElement="_ZbJDXhPEEem0-qd5Tf1Wvw">
-                <children xsi:type="advanced:Placeholder" xmi:id="_ZbJDWRPEEem0-qd5Tf1Wvw" elementId="org.eclipse.ui.editorss" containerData="8309" ref="_ZV5-ABPEEem0-qd5Tf1Wvw"/>
-                <children xsi:type="basic:PartStack" xmi:id="_ZbJDXhPEEem0-qd5Tf1Wvw" elementId="bottomRight" containerData="1691" selectedElement="_ZbJDZhPEEem0-qd5Tf1Wvw">
+                <children xsi:type="advanced:Placeholder" xmi:id="_ZbJDWRPEEem0-qd5Tf1Wvw" elementId="org.eclipse.ui.editorss" containerData="7235" ref="_ZV5-ABPEEem0-qd5Tf1Wvw"/>
+                <children xsi:type="basic:PartStack" xmi:id="_ZbJDXhPEEem0-qd5Tf1Wvw" elementId="bottomRight" containerData="2765" selectedElement="_ZbJDZhPEEem0-qd5Tf1Wvw">
                   <tags>active</tags>
                   <children xsi:type="advanced:Placeholder" xmi:id="_ZbJDXxPEEem0-qd5Tf1Wvw" elementId="org.eclipse.ui.views.AllMarkersView" ref="_ZbEK0RPEEem0-qd5Tf1Wvw" closeable="true">
                     <tags>View</tags>
@@ -205,37 +206,75 @@
       <tags>View</tags>
       <tags>categoryTag:Help</tags>
     </sharedElements>
-    <sharedElements xsi:type="advanced:Area" xmi:id="_ZV5-ABPEEem0-qd5Tf1Wvw" elementId="org.eclipse.ui.editorss" selectedElement="_ltGiwBRJEemO84BhKQ1x7A">
-      <children xsi:type="basic:PartSashContainer" xmi:id="_ltGiwBRJEemO84BhKQ1x7A" selectedElement="_ZV5-ARPEEem0-qd5Tf1Wvw">
-        <children xsi:type="basic:PartStack" xmi:id="_ltGiwRRJEemO84BhKQ1x7A" elementId="PartStack@4d84f8a6" containerData="5000" selectedElement="_kHhFABRJEemO84BhKQ1x7A">
-          <children xsi:type="basic:Part" xmi:id="_kHhFABRJEemO84BhKQ1x7A" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="moviedata.json" iconURI="platform:/plugin/org.eclipse.wst.json.ui/icons/full/obj16/json-16.png" closeable="true">
-            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.json.ui.JSONEditor&quot; name=&quot;moviedata.json&quot; partName=&quot;moviedata.json&quot; title=&quot;moviedata.json&quot; tooltip=&quot;/Users/dzhang/Projects/dynamodb/Movies/java/Movies/moviedata.json&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/Users/dzhang/Projects/dynamodb/Movies/java/Movies/moviedata.json&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;645&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-            <tags>Editor</tags>
-            <tags>org.eclipse.wst.json.ui.JSONEditor</tags>
-            <tags>removeOnHide</tags>
-          </children>
+    <sharedElements xsi:type="advanced:Area" xmi:id="_ZV5-ABPEEem0-qd5Tf1Wvw" elementId="org.eclipse.ui.editorss" selectedElement="_ZV5-ARPEEem0-qd5Tf1Wvw">
+      <children xsi:type="basic:PartStack" xmi:id="_ZV5-ARPEEem0-qd5Tf1Wvw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_c0i_UBSZEem8IsrCc9QGxQ">
+        <tags>org.eclipse.e4.primaryDataStack</tags>
+        <tags>EditorStack</tags>
+        <children xsi:type="basic:Part" xmi:id="_9IEZ0BPEEem0-qd5Tf1Wvw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MoviesCreateTable.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesCreateTable.java&quot; partName=&quot;MoviesCreateTable.java&quot; title=&quot;MoviesCreateTable.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesCreateTable.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesCreateTable.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1337&quot; selectionTopPixel=&quot;144&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
         </children>
-        <children xsi:type="basic:PartStack" xmi:id="_ZV5-ARPEEem0-qd5Tf1Wvw" elementId="org.eclipse.e4.primaryDataStack" containerData="5000" selectedElement="_mUaVMBRbEemO84BhKQ1x7A">
-          <tags>org.eclipse.e4.primaryDataStack</tags>
-          <tags>EditorStack</tags>
-          <children xsi:type="basic:Part" xmi:id="_9IEZ0BPEEem0-qd5Tf1Wvw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MoviesCreateTable.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesCreateTable.java&quot; partName=&quot;MoviesCreateTable.java&quot; title=&quot;MoviesCreateTable.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesCreateTable.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesCreateTable.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1337&quot; selectionTopPixel=&quot;144&quot;/>&#xA;&lt;/editor>"/>
-            <tags>Editor</tags>
-            <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-            <tags>removeOnHide</tags>
-          </children>
-          <children xsi:type="basic:Part" xmi:id="_2RuswBPHEem0-qd5Tf1Wvw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MoviesLoadData.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesLoadData.java&quot; partName=&quot;MoviesLoadData.java&quot; title=&quot;MoviesLoadData.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesLoadData.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesLoadData.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;14&quot; selectionOffset=&quot;1547&quot; selectionTopPixel=&quot;266&quot;/>&#xA;&lt;/editor>"/>
-            <tags>Editor</tags>
-            <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-            <tags>removeOnHide</tags>
-          </children>
-          <children xsi:type="basic:Part" xmi:id="_mUaVMBRbEemO84BhKQ1x7A" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MoviesItemOps01.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesItemOps01.java&quot; partName=&quot;MoviesItemOps01.java&quot; title=&quot;MoviesItemOps01.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps01.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps01.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1131&quot; selectionTopPixel=&quot;291&quot;/>&#xA;&lt;/editor>"/>
-            <tags>Editor</tags>
-            <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-            <tags>removeOnHide</tags>
-          </children>
+        <children xsi:type="basic:Part" xmi:id="_2RuswBPHEem0-qd5Tf1Wvw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MoviesLoadData.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesLoadData.java&quot; partName=&quot;MoviesLoadData.java&quot; title=&quot;MoviesLoadData.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesLoadData.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesLoadData.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;14&quot; selectionOffset=&quot;1547&quot; selectionTopPixel=&quot;266&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_mUaVMBRbEemO84BhKQ1x7A" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MoviesItemOps01.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesItemOps01.java&quot; partName=&quot;MoviesItemOps01.java&quot; title=&quot;MoviesItemOps01.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps01.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps01.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1131&quot; selectionTopPixel=&quot;307&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_pHplIBSYEem8IsrCc9QGxQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MoviesItemOps02.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesItemOps02.java&quot; partName=&quot;MoviesItemOps02.java&quot; title=&quot;MoviesItemOps02.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps02.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps02.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1152&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_vhKr8BSYEem8IsrCc9QGxQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MoviesItemOps03.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesItemOps03.java&quot; partName=&quot;MoviesItemOps03.java&quot; title=&quot;MoviesItemOps03.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps03.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps03.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1032&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_0dW5IBSYEem8IsrCc9QGxQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MoviesItemOps04.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesItemOps04.java&quot; partName=&quot;MoviesItemOps04.java&quot; title=&quot;MoviesItemOps04.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps04.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps04.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1007&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_5XEaEBSYEem8IsrCc9QGxQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MoviesItemOps05.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesItemOps05.java&quot; partName=&quot;MoviesItemOps05.java&quot; title=&quot;MoviesItemOps05.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps05.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps05.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1069&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_D_qwcBSZEem8IsrCc9QGxQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MoviesItemOps06.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesItemOps06.java&quot; partName=&quot;MoviesItemOps06.java&quot; title=&quot;MoviesItemOps06.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps06.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps06.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1288&quot; selectionTopPixel=&quot;9&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_SW8YABSZEem8IsrCc9QGxQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MoviesQuery.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesQuery.java&quot; partName=&quot;MoviesQuery.java&quot; title=&quot;MoviesQuery.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesQuery.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesQuery.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1082&quot; selectionTopPixel=&quot;195&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_XiMU4BSZEem8IsrCc9QGxQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MoviesScan.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesScan.java&quot; partName=&quot;MoviesScan.java&quot; title=&quot;MoviesScan.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesScan.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesScan.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1145&quot; selectionTopPixel=&quot;30&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_c0i_UBSZEem8IsrCc9QGxQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="MoviesDeleteTable.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MoviesDeleteTable.java&quot; partName=&quot;MoviesDeleteTable.java&quot; title=&quot;MoviesDeleteTable.java&quot; tooltip=&quot;Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesDeleteTable.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesDeleteTable.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1083&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
         </children>
       </children>
     </sharedElements>
@@ -380,7 +419,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ZPOuQBPEEem0-qd5Tf1Wvw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_BtHGUBRJEemO84BhKQ1x7A" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_Y95G8RPEEem0-qd5Tf1Wvw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_jLpgwBSYEem8IsrCc9QGxQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_Y95G8RPEEem0-qd5Tf1Wvw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ZPOuQRPEEem0-qd5Tf1Wvw" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -417,7 +456,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ZPPVVBPEEem0-qd5Tf1Wvw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_BtJikBRJEemO84BhKQ1x7A" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_Y94gCRPEEem0-qd5Tf1Wvw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_jLvAUBSYEem8IsrCc9QGxQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_Y94gCRPEEem0-qd5Tf1Wvw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ZPPVVRPEEem0-qd5Tf1Wvw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -905,7 +944,7 @@
       <parameters xmi:id="_Y-WZwBPEEem0-qd5Tf1Wvw" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.ui.console.ConsoleView"/>
     </bindings>
     <bindings xmi:id="_Y-WZwRPEEem0-qd5Tf1Wvw" keySequence="COMMAND+BREAK" command="_Y90ONxPEEem0-qd5Tf1Wvw"/>
-    <bindings xmi:id="_BdFtUBRJEemO84BhKQ1x7A" keySequence="COMMAND+CTRL+F" command="_Y-wpUxPEEem0-qd5Tf1Wvw"/>
+    <bindings xmi:id="_izHE8RSYEem8IsrCc9QGxQ" keySequence="COMMAND+CTRL+F" command="_Y-wpUxPEEem0-qd5Tf1Wvw"/>
   </bindingTables>
   <bindingTables xmi:id="_Y-NPuRPEEem0-qd5Tf1Wvw" elementId="org.eclipse.mylyn.internal.wikitext.ui.editor.basicMarkupSourceContext" bindingContext="_Y98xORPEEem0-qd5Tf1Wvw">
     <bindings xmi:id="_Y-NPuhPEEem0-qd5Tf1Wvw" keySequence="F1" command="_Y9zAHhPEEem0-qd5Tf1Wvw"/>
@@ -1350,7 +1389,7 @@
     </bindings>
   </bindingTables>
   <bindingTables xmi:id="_Y-xQZhPEEem0-qd5Tf1Wvw" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_Y9Z-dxPEEem0-qd5Tf1Wvw">
-    <bindings xmi:id="_BdFtURRJEemO84BhKQ1x7A" keySequence="M1+W" command="_Y-xQZBPEEem0-qd5Tf1Wvw"/>
+    <bindings xmi:id="_izHsABSYEem8IsrCc9QGxQ" keySequence="M1+W" command="_Y-xQZBPEEem0-qd5Tf1Wvw"/>
   </bindingTables>
   <bindingTables xmi:id="_ZV7MIRPEEem0-qd5Tf1Wvw" bindingContext="_ZV7MIBPEEem0-qd5Tf1Wvw"/>
   <bindingTables xmi:id="_ZV7MIxPEEem0-qd5Tf1Wvw" bindingContext="_ZV7MIhPEEem0-qd5Tf1Wvw"/>
@@ -3840,7 +3879,7 @@
   <addons xmi:id="_Y9Z-gxPEEem0-qd5Tf1Wvw" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_Y9Z-hBPEEem0-qd5Tf1Wvw" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_Y9e28BPEEem0-qd5Tf1Wvw" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_Bc7VQRRJEemO84BhKQ1x7A" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <addons xmi:id="_Y-wCQBPEEem0-qd5Tf1Wvw" elementId="org.eclipse.e4.ui.workbench.renderers.swt.cocoa.CocoaUIHandler" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.cocoa.CocoaUIHandler"/>
   <categories xmi:id="_Y9xx4BPEEem0-qd5Tf1Wvw" elementId="org.eclipse.ui.category.edit" name="Edit"/>

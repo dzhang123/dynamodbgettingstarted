@@ -65,3 +65,7 @@ typings/
 
 # node modules
 */node_modules/
+
+# java .metadata folder
+
+*.class
