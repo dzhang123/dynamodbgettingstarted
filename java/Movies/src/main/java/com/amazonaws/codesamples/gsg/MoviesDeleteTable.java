@@ -14,7 +14,7 @@ public class MoviesDeleteTable {
     public static void main(String[] args) throws Exception {
 
         AmazonDynamoDB client = AmazonDynamoDBClientBuilder.standard()
-            .withEndpointConfiguration(new AwsClientBuilder.EndpointConfiguration("http://localhost:3306", "us-west-2"))
+            .withEndpointConfiguration(new AwsClientBuilder.EndpointConfiguration("http://localhost:3306", "us-east-1"))
             .build();
 
         DynamoDB dynamoDB = new DynamoDB(client);

@@ -41,15 +41,13 @@ namespace DynamoDB_intro
     public static int Main( )
     {
       //  1.  Create a DynamoDB client connected to a DynamoDB-Local instance
-      Console.WriteLine( stepString, 1,
-        "Create a DynamoDB client connected to a DynamoDB-Local instance" );
+      Console.WriteLine( stepString, 1,"Create a DynamoDB client connected to a DynamoDB-Local instance" );
       if( !createClient( true ) || !pause( ) )
           return ( 1 );
 
 
       //  2.  Create a table for movie data asynchronously
-      Console.WriteLine( stepString, 2,
-        "Create a table for movie data" );
+      Console.WriteLine( stepString, 2, "Create a table for movie data" );
       CreatingTable_async( movies_table_name,
                            movie_items_attributes,
                            movies_key_schema,

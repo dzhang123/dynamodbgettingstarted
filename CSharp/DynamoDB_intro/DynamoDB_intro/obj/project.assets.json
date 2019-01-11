@@ -204,11 +204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\DynamoDB_intro\\DynamoDB_intro\\DynamoDB_intro.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Projects\\dynamodb\\Movies\\CSharp\\DynamoDB_intro\\DynamoDB_intro\\DynamoDB_intro.csproj",
       "projectName": "DynamoDB_intro",
-      "projectPath": "C:\\dev\\DynamoDB_intro\\DynamoDB_intro\\DynamoDB_intro.csproj",
+      "projectPath": "\\\\Mac\\Home\\Projects\\dynamodb\\Movies\\CSharp\\DynamoDB_intro\\DynamoDB_intro\\DynamoDB_intro.csproj",
       "packagesPath": "C:\\Users\\dzhang\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\DynamoDB_intro\\DynamoDB_intro\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Projects\\dynamodb\\Movies\\CSharp\\DynamoDB_intro\\DynamoDB_intro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
