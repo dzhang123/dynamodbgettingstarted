@@ -5,9 +5,13 @@
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.node.ObjectNode"/>
-    <fullyQualifiedTypeName name="com.amazonaws.services.dynamodbv2.AmazonDynamoDBClientBuilder"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.dynamodbv2.document.Item"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.dynamodbv2.AmazonDynamoDB"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="com.amazonaws.client.builder.AwsClientBuilder.EndpointConfiguration"/>
     <fullyQualifiedTypeName name="com.amazonaws.services.dynamodbv2.document.DynamoDB"/>
     <fullyQualifiedTypeName name="com.amazonaws.services.dynamodbv2.document.Table"/>
-    <fullyQualifiedTypeName name="com.amazonaws.services.dynamodbv2.document.Item"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.dynamodbv2.AmazonDynamoDBClientBuilder"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.dynamodbv2.model.AttributeValue"/>
+    <fullyQualifiedTypeName name="com.amazonaws.codesamples.gsg.MoviesItem"/>
 </qualifiedTypeNameHistroy>
