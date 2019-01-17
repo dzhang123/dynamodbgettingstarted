@@ -1,4 +1,5 @@
 /Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps05.java
+/Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/StreamsAdapterDemoHelper.java
 /Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/gsg/MusicLowLevelDemo.java
 /Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesMapperDemo.java
 /Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesScan.java
@@ -7,9 +8,12 @@
 /Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesQuery.java
 /Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesLoadData.java
 /Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesDeleteTable.java
+/Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/StreamsRecordProcessorFactory.java
 /Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps04.java
+/Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/StreamsRecordProcessor.java
+/Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/gsg/DocumentAPITableExample.java
 /Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps03.java
-/Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItem.java
+/Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/StreamsAdapterDemo.java
 /Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/gsg/MoviesItemOps06.java
 /Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/gsg/MusicDocumentDemo.java
 /Users/dzhang/Projects/dynamodb/Movies/java/Movies/src/main/java/com/amazonaws/codesamples/gsg/MusicMapperDemo.java

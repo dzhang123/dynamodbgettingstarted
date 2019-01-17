@@ -1,0 +1,15 @@
+{   
+    "Thread": { 
+        "Keys": [
+            {   
+                "ForumName":{"S": "Amazon DynamoDB"},
+                "Subject":{"S": "DynamoDB Thread 1"}
+            },
+            {   
+                "ForumName":{"S": "Amazon S3"},
+                "Subject":{"S": "S3 Thread 1"}
+            }
+        ],
+        "ProjectionExpression":"ForumName, Subject, LastPostedDateTime, Replies"
+    }
+}
